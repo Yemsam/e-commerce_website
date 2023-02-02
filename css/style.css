@@ -92,8 +92,8 @@ section{
 	transition: all .35s ease;
 }
 .box img{
-    width:  100px;
-    height: auto;
+    width:  auto;
+    height: 100px;
     
 }
 
